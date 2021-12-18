@@ -2,8 +2,6 @@
 ![image](https://raw.githubusercontent.com/TomGermeau/BlancPain/main/data/Blancpain_logo.png)
 
 
-# BlancPain
-
 ## Team members
 Our team consists of Tom Germeau, Lucas David and Martina Kofler.
 
