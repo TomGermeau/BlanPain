@@ -1,5 +1,5 @@
 
-![image](https://raw.githubusercontent.com/TomGermeau/BlancPain/main/data/blancpain_logo.png)
+![image](https://raw.githubusercontent.com/TomGermeau/BlancPain/main/data/Blancpain_logo.png)
 
 
 # BlancPain
