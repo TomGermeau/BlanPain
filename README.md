@@ -18,3 +18,8 @@ By trying to improve our models we also used tokanization, lemmatization and the
 For searching the best parameters for our models we used GridSearch.
 
 The remove of puntuation and numbers, limatization and the parameter optimization helped us to improve the accurancy of our model.
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
