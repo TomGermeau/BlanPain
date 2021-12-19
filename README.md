@@ -9,7 +9,7 @@ Our team consists of Tom Germeau, Lucas David and Martina Kofler.
 The objective of the project was the built a model that can predict the difficulty levels of given french sentences for english speakers.
 
 ## Approach
-For reaching this objective we first loaded the necessary modules and installed the necessary packaeges. Then we loaded the train data set from our Github repository in the notebook, the same we did also for the unlabelled dataset on which we should make predictions to load in the leaderboard.
+For reaching this objective we first loaded  and installed the necessary packages. Then we loaded the train data set from our Github repository in the notebook, the same we did also for the unlabelled dataset on which we should make predictions to load in the leaderboard.
 
 To know what the minimal accurancy is that our models should have we first calculated the baseline.
 Then we trained a simple logistic regression model, KNN classification model, Decison Tree classifier and Random Forest Classifier using a Tfidf vectoriser without makeing any data cleaning.
