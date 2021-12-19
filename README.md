@@ -27,7 +27,4 @@ This are our best results
 |Recall    |0.4756              |0.4166         |0.3183 |0.3056         | 0.4921|
 |F1-score  |0.4704              |0.4018         |0.3022 |0.3026         |0.4878|
 |Accurancy |0.740               |0.4146         |0.3187 |0.3052         |0.4917|
-| Evaluation  | Logistic Regression|
-| ------------- | ------------- |
-| Precision | Content Cell  |
-| Recal | Content Cell  |
+
