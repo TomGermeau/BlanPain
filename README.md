@@ -22,8 +22,12 @@ The remove of puntuation and numbers, limatization and the parameter optimizatio
 This are our best results
 
 |Evaluation| Logistic Regression| Random Forest | knn   | Decision Tree | Any other technique|
------------| -------------------| ------------- |-------|------- -------|--------------------|
+-----------| -------------------| ------------- |-------|--------------|--------------------|
 |Precision | 0.4733             |0.4100         |0.4007 |0.3071         |0.4921|
 |Recall    |0.4756              |0.4166         |0.3183 |0.3056         | 0.4921|
 |F1-score  |0.4704              |0.4018         |0.3022 |0.3026         |0.4878|
 |Accurancy |0.740               |0.4146         |0.3187 |0.3052         |0.4917|
+| Evaluation  | Logistic Regression|
+| ------------- | ------------- |
+| Precision | Content Cell  |
+| Recal | Content Cell  |
