@@ -17,4 +17,4 @@ Then we trained a simple logistic regression model, KNN classification model, De
 By trying to improve our models we also used tokanization, lemmatization and the removal of stopwords and punctuations. 
 For searching the best parameters for our models we used GridSearch.
 
-The tokanization, limatization and the parameter optimization helped us to improve the accurancy of our model.
+The remove of puntuation and numbers, limatization and the parameter optimization helped us to improve the accurancy of our model.
