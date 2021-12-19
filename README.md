@@ -14,7 +14,7 @@ For reaching this objective we first loaded  and installed the necessary package
 To know what the minimal accurancy is that our models should have we first calculated the baseline.
 Then we trained a simple logistic regression model, KNN classification model, Decison Tree classifier and Random Forest Classifier using a Tfidf vectoriser without makeing any data cleaning.
 
-By trying to improve our models we also used tokanization, lemmatization and the removal of stopwords and punctuations. 
+By trying to improve our models we also used tokanization, lemmatization and the removal of stopwords, punctuations and numbers. 
 For searching the best parameters for our models we used GridSearch.
 
 The remove of puntuation and numbers, limatization and the parameter optimization helped us to improve the accurancy of our model.
